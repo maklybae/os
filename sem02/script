@@ -1,0 +1,32 @@
+#!/bin/bash
+
+if [ "$#" -lt 2 ]; then
+    echo "Usage: $0 <output_filename> <source_file1> <source_file2> [source_files...]"
+    exit 1
+fi
+
+output_filename=$1
+shift
+
+if [ -f "$output_filename" ]; then
+    read -p "File $output_filename already exists. Do you want to overwrite it? [y/N] " -n 1 -r
+
+    if [[ ! $REPLY =~ ^[Yy]$ ]]; then
+        echo "Treating as 'no'"
+        exit 1
+    fi
+
+    echo "Correct compilation will rewrite the file $output_filename"
+fi
+
+echo "Check g++ version..."
+
+gxx_version=$(g++ -dumpversion | awk -F. '{print $1}')
+if [ "$gxx_version" -lt "8" ]; then
+    echo "Required g++ major version is 8 or higher. Current version is $gxx_version"
+    exit 1
+fi
+
+echo "Compile sources..."
+
+g++ -std=c++20 -o "$output_filename" "$@"
