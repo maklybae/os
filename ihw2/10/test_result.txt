@@ -1,0 +1,658 @@
+Compiling watchman and visitor...
+Compilation successful.
+Starting watchman...
+Watchman started with PID: 89744
+Working day started...
+Launching 50 visitors...
+Visitor 89753 entered the gallery
+Visitor 89753 is viewing painting 1
+Visitor 89755 entered the gallery
+Visitor 89755 is viewing painting 5
+Visitor 89757 entered the gallery
+Visitor 89757 is viewing painting 3
+Visitor 89759 entered the gallery
+Visitor 89759 is viewing painting 5
+Visitor 89777 entered the gallery
+Visitor 89777 is viewing painting 3
+Visitor 89779 entered the gallery
+Visitor 89779 is viewing painting 3
+Visitor 89788 entered the gallery
+Visitor 89788 is viewing painting 2
+Visitor 89790 entered the gallery
+Visitor 89790 is viewing painting 4
+Visitor 89792 entered the gallery
+Visitor 89792 is viewing painting 1
+Visitor 89794 entered the gallery
+Visitor 89794 is viewing painting 1
+Visitor 89753 finished viewing painting 1
+Visitor 89753 is viewing painting 5
+Visitor 89796 entered the gallery
+Visitor 89796 is viewing painting 3
+Visitor 89755 finished viewing painting 5
+Visitor 89755 is viewing painting 1
+Visitor 89798 entered the gallery
+Visitor 89798 is viewing painting 3
+Visitor 89757 finished viewing painting 3
+Visitor 89757 is viewing painting 4
+Visitor 89800 entered the gallery
+Visitor 89800 is viewing painting 5
+Visitor 89759 finished viewing painting 5
+Visitor 89759 is viewing painting 2
+Visitor 89802 entered the gallery
+Visitor 89802 is viewing painting 2
+Visitor 89820 entered the gallery
+Visitor 89820 is viewing painting 5
+Visitor 89779 finished viewing painting 3
+Visitor 89779 is viewing painting 4
+Visitor 89822 entered the gallery
+Visitor 89822 is viewing painting 1
+Visitor 89831 entered the gallery
+Visitor 89831 is viewing painting 1
+Visitor 89833 entered the gallery
+Visitor 89833 is viewing painting 2
+Visitor 89835 entered the gallery
+Visitor 89835 is viewing painting 3
+Visitor 89794 finished viewing painting 1
+Visitor 89794 is viewing painting 5
+Visitor 89753 finished viewing painting 5
+Visitor 89753 is viewing painting 4
+Visitor 89837 entered the gallery
+Visitor 89837 is viewing painting 1
+Visitor 89839 entered the gallery
+Visitor 89839 is viewing painting 4
+Visitor 89798 finished viewing painting 3
+Visitor 89798 is viewing painting 5
+Visitor 89757 finished viewing painting 4
+Visitor 89841 entered the gallery
+Visitor 89843 entered the gallery
+Visitor 89843 is viewing painting 2
+Visitor 89759 finished viewing painting 2
+Visitor 89759 is viewing painting 3
+Visitor 89777 finished viewing painting 3
+Visitor 89845 entered the gallery
+Visitor 89845 is viewing painting 3
+Visitor 89820 finished viewing painting 5
+Visitor 89847 entered the gallery
+Visitor 89847 is viewing painting 3
+Visitor 89822 finished viewing painting 1
+Visitor 89757 is viewing painting 1
+Visitor 89822 is viewing painting 2
+Visitor 89788 finished viewing painting 2
+Visitor 89790 finished viewing painting 4
+Visitor 89792 finished viewing painting 1
+Visitor 89841 is viewing painting 1
+Visitor 89753 finished viewing painting 4
+Visitor 89753 is viewing painting 2
+Visitor 89796 finished viewing painting 3
+Visitor 89788 is viewing painting 3
+Visitor 89755 finished viewing painting 1
+Visitor 89777 is viewing painting 1
+Visitor 89839 finished viewing painting 4
+Visitor 89798 finished viewing painting 5
+Visitor 89800 finished viewing painting 5
+Visitor 89843 finished viewing painting 2
+Visitor 89796 is viewing painting 2
+Visitor 89802 finished viewing painting 2
+Visitor 89839 is viewing painting 2
+Visitor 89845 finished viewing painting 3
+Visitor 89790 is viewing painting 3
+Visitor 89779 finished viewing painting 4
+Visitor 89779 is viewing painting 5
+Visitor 89822 finished viewing painting 2
+Visitor 89822 is viewing painting 4
+Visitor 89845 is viewing painting 2
+Visitor 89831 finished viewing painting 1
+Visitor 89820 is viewing painting 1
+Visitor 89833 finished viewing painting 2
+Visitor 89833 is viewing painting 5
+Visitor 89831 is viewing painting 2
+Visitor 89841 finished viewing painting 1
+Visitor 89841 is viewing painting 5
+Visitor 89798 is viewing painting 1
+Visitor 89835 finished viewing painting 3
+Visitor 89792 is viewing painting 3
+Visitor 89794 finished viewing painting 5
+Visitor 89794 is viewing painting 4
+Visitor 89837 finished viewing painting 1
+Visitor 89843 is viewing painting 1
+Visitor 89837 is viewing painting 5
+Visitor 89788 finished viewing painting 3
+Visitor 89788 is viewing painting 4
+Visitor 89755 is viewing painting 3
+Visitor 89777 finished viewing painting 1
+Visitor 89777 is viewing painting 5
+Visitor 89802 is viewing painting 1
+Visitor 89796 finished viewing painting 2
+Visitor 89835 is viewing painting 2
+Visitor 89759 finished viewing painting 3
+Visitor 89759 is viewing painting 4
+Visitor 89800 is viewing painting 3
+Visitor 89790 finished viewing painting 3
+Visitor 89847 finished viewing painting 3
+Visitor 89847 is viewing painting 4
+Visitor 89757 finished viewing painting 1
+Visitor 89845 finished viewing painting 2
+Visitor 89790 is viewing painting 2
+Visitor 89833 finished viewing painting 5
+Visitor 89796 is viewing painting 5
+Visitor 89798 finished viewing painting 1
+Visitor 89753 finished viewing painting 2
+Visitor 89753 is viewing painting 3
+Visitor 89757 is viewing painting 2
+Visitor 89755 finished viewing painting 3
+Visitor 89802 finished viewing painting 1
+All visitors launched.
+Visitor 89759 finished viewing painting 4
+Visitor 89759 is viewing painting 1
+Visitor 89833 is viewing painting 4
+Visitor 89839 finished viewing painting 2
+Visitor 89755 is viewing painting 2
+Visitor 89847 finished viewing painting 4
+Visitor 89798 is viewing painting 4
+Visitor 89779 finished viewing painting 5
+Visitor 89779 is viewing painting 1
+Visitor 89845 is viewing painting 5
+Visitor 89822 finished viewing painting 4
+Visitor 89802 is viewing painting 4
+Visitor 89822 is viewing painting 3
+Visitor 89820 finished viewing painting 1
+Visitor 89831 finished viewing painting 2
+Visitor 89796 finished viewing painting 5
+Visitor 89820 is viewing painting 2
+Visitor 89796 is viewing painting 1
+Visitor 89839 is viewing painting 5
+Visitor 89831 is viewing painting 3
+Visitor 89841 finished viewing painting 5
+Visitor 89847 is viewing painting 5
+Visitor 89792 finished viewing painting 3
+Visitor 89794 finished viewing painting 4
+Visitor 89841 is viewing painting 4
+Visitor 89794 is viewing painting 3
+Visitor 89843 finished viewing painting 1
+Visitor 89837 finished viewing painting 5
+Visitor 89788 finished viewing painting 4
+Visitor 89792 is viewing painting 4
+Visitor 89788 is viewing painting 5
+Visitor 89777 finished viewing painting 5
+Visitor 89835 finished viewing painting 2
+Visitor 89837 is viewing painting 2
+Visitor 89800 finished viewing painting 3
+Visitor 89800 is viewing painting 1
+Visitor 89759 finished viewing painting 1
+Visitor 89833 finished viewing painting 4
+Visitor 89833 is viewing painting 3
+Visitor 89843 is viewing painting 4
+Visitor 89759 has seen all paintings and left the gallery
+Watchman: Visitor 89759 completed viewing all paintings
+Visitor 89856 entered the gallery
+Visitor 89856 is viewing painting 5
+Visitor 89798 finished viewing painting 4
+Visitor 89835 is viewing painting 4
+Visitor 89802 finished viewing painting 4
+Visitor 89790 finished viewing painting 2
+Visitor 89790 is viewing painting 1
+Visitor 89777 is viewing painting 2
+Visitor 89831 finished viewing painting 3
+Visitor 89820 finished viewing painting 2
+Visitor 89820 is viewing painting 3
+Visitor 89831 is viewing painting 4
+Visitor 89798 is viewing painting 2
+Visitor 89839 finished viewing painting 5
+Visitor 89839 is viewing painting 1
+Visitor 89802 is viewing painting 5
+Visitor 89847 finished viewing painting 5
+Visitor 89794 finished viewing painting 3
+Visitor 89753 finished viewing painting 3
+Visitor 89757 finished viewing painting 2
+Visitor 89757 is viewing painting 5
+Visitor 89753 has seen all paintings and left the gallery
+Visitor 89847 is viewing painting 2
+Watchman: Visitor 89753 completed viewing all paintings
+Visitor 89858 entered the gallery
+Visitor 89792 finished viewing painting 4
+Visitor 89833 finished viewing painting 3
+Visitor 89800 finished viewing painting 1
+Visitor 89800 is viewing painting 4
+Visitor 89833 is viewing painting 1
+Visitor 89856 finished viewing painting 5
+Visitor 89792 is viewing painting 5
+Visitor 89755 finished viewing painting 2
+Visitor 89794 is viewing painting 2
+Visitor 89779 finished viewing painting 1
+Visitor 89835 finished viewing painting 4
+Visitor 89755 is viewing painting 4
+Visitor 89845 finished viewing painting 5
+Visitor 89835 is viewing painting 5
+Visitor 89845 is viewing painting 1
+Visitor 89822 finished viewing painting 3
+Visitor 89777 finished viewing painting 2
+Visitor 89858 is viewing painting 2
+Visitor 89796 finished viewing painting 1
+Visitor 89831 finished viewing painting 4
+Visitor 89777 is viewing painting 4
+Visitor 89798 finished viewing painting 2
+Visitor 89798 has seen all paintings and left the gallery
+Visitor 89856 is viewing painting 2
+Watchman: Visitor 89798 completed viewing all paintings
+Visitor 89820 finished viewing painting 3
+Visitor 89839 finished viewing painting 1
+Visitor 89839 is viewing painting 3
+Visitor 89860 entered the gallery
+Visitor 89841 finished viewing painting 4
+Visitor 89796 is viewing painting 4
+Visitor 89847 finished viewing painting 2
+Visitor 89847 is viewing painting 1
+Visitor 89779 is viewing painting 2
+Visitor 89788 finished viewing painting 5
+Visitor 89788 is viewing painting 1
+Visitor 89822 is viewing painting 5
+Visitor 89837 finished viewing painting 2
+Visitor 89841 is viewing painting 2
+Visitor 89843 finished viewing painting 4
+Visitor 89843 is viewing painting 3
+Visitor 89820 is viewing painting 4
+Visitor 89800 finished viewing painting 4
+Visitor 89837 is viewing painting 4
+Visitor 89833 finished viewing painting 1
+Visitor 89833 has seen all paintings and left the gallery
+Watchman: Visitor 89833 completed viewing all paintings
+Visitor 89862 entered the gallery
+Visitor 89862 is viewing painting 1
+Visitor 89755 finished viewing painting 4
+Visitor 89755 has seen all paintings and left the gallery
+Watchman: Visitor 89755 completed viewing all paintings
+Visitor 89864 entered the gallery
+Visitor 89845 finished viewing painting 1
+Visitor 89845 is viewing painting 4
+Visitor 89790 finished viewing painting 1
+Visitor 89858 finished viewing painting 2
+Visitor 89800 is viewing painting 2
+Visitor 89802 finished viewing painting 5
+Visitor 89802 is viewing painting 3
+Visitor 89831 is viewing painting 5
+Visitor 89839 finished viewing painting 3
+Visitor 89839 has seen all paintings and left the gallery
+Watchman: Visitor 89839 completed viewing all paintings
+Visitor 89866 entered the gallery
+Visitor 89757 finished viewing painting 5
+Visitor 89757 has seen all paintings and left the gallery
+Visitor 89860 is viewing painting 5
+Watchman: Visitor 89757 completed viewing all paintings
+Visitor 89847 finished viewing painting 1
+Visitor 89868 entered the gallery
+Visitor 89847 has seen all paintings and left the gallery
+Watchman: Visitor 89847 completed viewing all paintings
+Visitor 89870 entered the gallery
+Visitor 89870 is viewing painting 1
+Visitor 89779 finished viewing painting 2
+Visitor 89779 has seen all paintings and left the gallery
+Visitor 89864 is viewing painting 2
+Watchman: Visitor 89779 completed viewing all paintings
+Visitor 89872 entered the gallery
+Visitor 89872 is viewing painting 3
+Visitor 89788 finished viewing painting 1
+Visitor 89788 has seen all paintings and left the gallery
+Watchman: Visitor 89788 completed viewing all paintings
+Visitor 89874 entered the gallery
+Visitor 89822 finished viewing painting 5
+Visitor 89822 has seen all paintings and left the gallery
+Visitor 89790 is viewing painting 5
+Watchman: Visitor 89822 completed viewing all paintings
+Visitor 89883 entered the gallery
+Visitor 89883 is viewing painting 1
+Visitor 89843 finished viewing painting 3
+Visitor 89820 finished viewing painting 4
+Visitor 89792 finished viewing painting 5
+Visitor 89858 is viewing painting 4
+Visitor 89868 is viewing painting 5
+Visitor 89820 has seen all paintings and left the gallery
+Watchman: Visitor 89820 completed viewing all paintings
+Visitor 89885 entered the gallery
+Visitor 89885 is viewing painting 1
+Visitor 89841 finished viewing painting 2
+Visitor 89841 is viewing painting 3
+Visitor 89866 is viewing painting 2
+Visitor 89862 finished viewing painting 1
+Visitor 89794 finished viewing painting 2
+Visitor 89792 is viewing painting 2
+Visitor 89794 has seen all paintings and left the gallery
+Watchman: Visitor 89794 completed viewing all paintings
+Visitor 89887 entered the gallery
+Visitor 89835 finished viewing painting 5
+Visitor 89835 is viewing painting 1
+Visitor 89874 is viewing painting 5
+Visitor 89777 finished viewing painting 4
+Visitor 89777 has seen all paintings and left the gallery
+Visitor 89862 is viewing painting 4
+Watchman: Visitor 89777 completed viewing all paintings
+Visitor 89889 entered the gallery
+Visitor 89856 finished viewing painting 2
+Visitor 89856 is viewing painting 1
+Visitor 89887 is viewing painting 2
+Visitor 89831 finished viewing painting 5
+Visitor 89831 has seen all paintings and left the gallery
+Visitor 89843 is viewing painting 5
+Watchman: Visitor 89831 completed viewing all paintings
+Visitor 89891 entered the gallery
+Visitor 89796 finished viewing painting 4
+Visitor 89889 is viewing painting 4
+Visitor 89796 has seen all paintings and left the gallery
+Watchman: Visitor 89796 completed viewing all paintings
+Visitor 89893 entered the gallery
+Visitor 89860 finished viewing painting 5
+Visitor 89891 is viewing painting 5
+Visitor 89837 finished viewing painting 4
+Visitor 89893 is viewing painting 4
+Visitor 89837 is viewing painting 3
+Visitor 89885 finished viewing painting 1
+Visitor 89866 finished viewing painting 2
+Visitor 89885 is viewing painting 3
+Visitor 89858 finished viewing painting 4
+Visitor 89841 finished viewing painting 3
+Visitor 89858 is viewing painting 1
+Visitor 89860 is viewing painting 4
+Visitor 89841 has seen all paintings and left the gallery
+Visitor 89866 is viewing painting 3
+Watchman: Visitor 89841 completed viewing all paintings
+Visitor 89895 entered the gallery
+Visitor 89792 finished viewing painting 2
+Visitor 89792 has seen all paintings and left the gallery
+Watchman: Visitor 89792 completed viewing all paintings
+Visitor 89897 entered the gallery
+Visitor 89845 finished viewing painting 4
+Visitor 89895 is viewing painting 4
+Visitor 89845 has seen all paintings and left the gallery
+Watchman: Visitor 89845 completed viewing all paintings
+Visitor 89899 entered the gallery
+Visitor 89800 finished viewing painting 2
+Visitor 89800 has seen all paintings and left the gallery
+Watchman: Visitor 89800 completed viewing all paintings
+Visitor 89908 entered the gallery
+Visitor 89843 finished viewing painting 5
+Visitor 89843 has seen all paintings and left the gallery
+Watchman: Visitor 89843 completed viewing all paintings
+Visitor 89802 finished viewing painting 3
+Visitor 89802 has seen all paintings and left the gallery
+Watchman: Visitor 89802 completed viewing all paintings
+Visitor 89910 entered the gallery
+Visitor 89910 is viewing painting 2
+Visitor 89912 entered the gallery
+Visitor 89912 is viewing painting 2
+Visitor 89889 finished viewing painting 4
+Visitor 89897 is viewing painting 4
+Visitor 89864 finished viewing painting 2
+Visitor 89872 finished viewing painting 3
+Visitor 89864 is viewing painting 5
+Visitor 89870 finished viewing painting 1
+Visitor 89870 is viewing painting 3
+Visitor 89899 is viewing painting 1
+Visitor 89891 finished viewing painting 5
+Visitor 89891 is viewing painting 2
+Visitor 89883 finished viewing painting 1
+Visitor 89883 is viewing painting 5
+Visitor 89908 is viewing painting 1
+Visitor 89790 finished viewing painting 5
+Visitor 89790 has seen all paintings and left the gallery
+Watchman: Visitor 89790 completed viewing all paintings
+Visitor 89917 entered the gallery
+Visitor 89917 is viewing painting 3
+Visitor 89868 finished viewing painting 5
+Visitor 89885 finished viewing painting 3
+Visitor 89858 finished viewing painting 1
+Visitor 89858 is viewing painting 5
+Visitor 89889 is viewing painting 1
+Visitor 89835 finished viewing painting 1
+Visitor 89874 finished viewing painting 5
+Visitor 89872 is viewing painting 1
+Visitor 89874 is viewing painting 3
+Visitor 89835 has seen all paintings and left the gallery
+Watchman: Visitor 89835 completed viewing all paintings
+Visitor 89919 entered the gallery
+Visitor 89919 is viewing painting 5
+Visitor 89887 finished viewing painting 2
+Visitor 89910 finished viewing painting 2
+Visitor 89862 finished viewing painting 4
+Visitor 89856 finished viewing painting 1
+Visitor 89862 is viewing painting 5
+Visitor 89856 is viewing painting 4
+Visitor 89868 is viewing painting 1
+Visitor 89891 finished viewing painting 2
+Visitor 89899 finished viewing painting 1
+Visitor 89891 is viewing painting 3
+Visitor 89870 finished viewing painting 3
+Visitor 89887 is viewing painting 1
+Visitor 89870 is viewing painting 2
+Visitor 89908 finished viewing painting 1
+Visitor 89837 finished viewing painting 3
+Visitor 89899 is viewing painting 3
+Visitor 89837 has seen all paintings and left the gallery
+Watchman: Visitor 89837 completed viewing all paintings
+Visitor 89893 finished viewing painting 4
+Visitor 89893 is viewing painting 2
+Visitor 89885 is viewing painting 4
+Visitor 89921 entered the gallery
+Visitor 89921 is viewing painting 1
+Visitor 89866 finished viewing painting 3
+Visitor 89910 is viewing painting 3
+Visitor 89860 finished viewing painting 4
+Visitor 89889 finished viewing painting 1
+Visitor 89866 is viewing painting 4
+Visitor 89860 is viewing painting 2
+Visitor 89889 is viewing painting 2
+Visitor 89872 finished viewing painting 1
+Visitor 89895 finished viewing painting 4
+Visitor 89912 finished viewing painting 2
+Visitor 89872 is viewing painting 2
+Visitor 89897 finished viewing painting 4
+Visitor 89864 finished viewing painting 5
+Visitor 89891 finished viewing painting 3
+Visitor 89891 is viewing painting 4
+Visitor 89908 is viewing painting 3
+Visitor 89870 finished viewing painting 2
+Visitor 89870 is viewing painting 4
+Visitor 89895 is viewing painting 2
+Visitor 89883 finished viewing painting 5
+Visitor 89917 finished viewing painting 3
+Visitor 89917 is viewing painting 1
+Visitor 89912 is viewing painting 3
+Visitor 89858 finished viewing painting 5
+Visitor 89921 finished viewing painting 1
+Visitor 89899 finished viewing painting 3
+Visitor 89864 is viewing painting 3
+Visitor 89919 finished viewing painting 5
+Visitor 89874 finished viewing painting 3
+Visitor 89919 is viewing painting 1
+Visitor 89883 is viewing painting 3
+Visitor 89868 finished viewing painting 1
+Visitor 89872 finished viewing painting 2
+Visitor 89872 is viewing painting 5
+Visitor 89897 is viewing painting 2
+Visitor 89856 finished viewing painting 4
+Visitor 89899 is viewing painting 4
+Visitor 89862 finished viewing painting 5
+Visitor 89887 finished viewing painting 1
+Visitor 89908 finished viewing painting 3
+Visitor 89891 finished viewing painting 4
+Visitor 89891 is viewing painting 1
+Visitor 89908 is viewing painting 5
+Visitor 89858 is viewing painting 3
+Visitor 89868 is viewing painting 4
+Visitor 89912 finished viewing painting 3
+Visitor 89856 is viewing painting 3
+Visitor 89885 finished viewing painting 4
+Visitor 89887 is viewing painting 4
+Visitor 89885 is viewing painting 5
+Visitor 89910 finished viewing painting 3
+Visitor 89893 finished viewing painting 2
+Visitor 89910 is viewing painting 1
+Visitor 89893 is viewing painting 1
+Visitor 89921 is viewing painting 2
+Visitor 89866 finished viewing painting 4
+Visitor 89866 is viewing painting 5
+Visitor 89912 is viewing painting 4
+Visitor 89889 finished viewing painting 2
+Visitor 89860 finished viewing painting 2
+Visitor 89889 is viewing painting 3
+Visitor 89874 is viewing painting 2
+Visitor 89862 is viewing painting 2
+Visitor 89919 finished viewing painting 1
+Visitor 89899 finished viewing painting 4
+Visitor 89870 finished viewing painting 4
+Visitor 89870 is viewing painting 5
+Visitor 89895 finished viewing painting 2
+Visitor 89919 is viewing painting 2
+Visitor 89908 finished viewing painting 5
+Visitor 89868 finished viewing painting 4
+Visitor 89858 finished viewing painting 3
+Visitor 89858 has seen all paintings and left the gallery
+Visitor 89860 is viewing painting 3
+Watchman: Visitor 89858 completed viewing all paintings
+Visitor 89917 finished viewing painting 1
+Visitor 89917 is viewing painting 4
+Visitor 89893 finished viewing painting 1
+Visitor 89864 finished viewing painting 3
+Visitor 89864 is viewing painting 4
+Visitor 89895 is viewing painting 3
+Visitor 89921 finished viewing painting 2
+Visitor 89921 is viewing painting 5
+Visitor 89885 finished viewing painting 5
+Visitor 89885 is viewing painting 2
+Visitor 89889 finished viewing painting 3
+Visitor 89889 is viewing painting 5
+Visitor 89868 is viewing painting 3
+Visitor 89883 finished viewing painting 3
+Visitor 89893 is viewing painting 3
+Visitor 89872 finished viewing painting 5
+Visitor 89897 finished viewing painting 2
+Visitor 89872 is viewing painting 4
+Visitor 89908 is viewing painting 2
+Visitor 89870 finished viewing painting 5
+Visitor 89891 finished viewing painting 1
+Visitor 89870 has seen all paintings and left the gallery
+Visitor 89919 finished viewing painting 2
+Visitor 89891 has seen all paintings and left the gallery
+Visitor 89919 is viewing painting 3
+Visitor 89899 is viewing painting 2
+Watchman: Visitor 89891 completed viewing all paintings
+Watchman: Visitor 89870 completed viewing all paintings
+Visitor 89860 finished viewing painting 3
+Visitor 89860 is viewing painting 1
+Visitor 89856 finished viewing painting 3
+Visitor 89897 is viewing painting 3
+Visitor 89856 has seen all paintings and left the gallery
+Watchman: Visitor 89856 completed viewing all paintings
+Visitor 89895 finished viewing painting 3
+Visitor 89866 finished viewing painting 5
+Visitor 89862 finished viewing painting 2
+Visitor 89895 is viewing painting 1
+Visitor 89862 is viewing painting 3
+Visitor 89866 is viewing painting 1
+Visitor 89883 is viewing painting 2
+Visitor 89889 finished viewing painting 5
+Visitor 89912 finished viewing painting 4
+Visitor 89910 finished viewing painting 1
+Visitor 89887 finished viewing painting 4
+Visitor 89921 finished viewing painting 5
+Visitor 89889 has seen all paintings and left the gallery
+Visitor 89868 finished viewing painting 3
+Visitor 89912 is viewing painting 1
+Watchman: Visitor 89889 completed viewing all paintings
+Visitor 89910 is viewing painting 5
+Visitor 89868 is viewing painting 2
+Visitor 89887 is viewing painting 3
+Visitor 89921 is viewing painting 4
+Visitor 89874 finished viewing painting 2
+Visitor 89874 is viewing painting 1
+Visitor 89893 finished viewing painting 3
+Visitor 89893 is viewing painting 5
+Visitor 89908 finished viewing painting 2
+Visitor 89908 is viewing painting 4
+Visitor 89872 finished viewing painting 4
+Visitor 89872 has seen all paintings and left the gallery
+Watchman: Visitor 89872 completed viewing all paintings
+Visitor 89860 finished viewing painting 1
+Visitor 89860 has seen all paintings and left the gallery
+Watchman: Visitor 89860 completed viewing all paintings
+Visitor 89919 finished viewing painting 3
+Visitor 89919 is viewing painting 4
+Visitor 89917 finished viewing painting 4
+Visitor 89917 is viewing painting 2
+Visitor 89895 finished viewing painting 1
+Visitor 89885 finished viewing painting 2
+Visitor 89862 finished viewing painting 3
+Visitor 89862 has seen all paintings and left the gallery
+Visitor 89895 is viewing painting 5
+Visitor 89885 has seen all paintings and left the gallery
+Watchman: Visitor 89885 completed viewing all paintings
+Watchman: Visitor 89862 completed viewing all paintings
+Visitor 89866 finished viewing painting 1
+Visitor 89866 has seen all paintings and left the gallery
+Watchman: Visitor 89866 completed viewing all paintings
+Visitor 89864 finished viewing painting 4
+Visitor 89883 finished viewing painting 2
+Visitor 89864 is viewing painting 1
+Visitor 89883 is viewing painting 4
+Visitor 89893 finished viewing painting 5
+Visitor 89893 has seen all paintings and left the gallery
+Watchman: Visitor 89893 completed viewing all paintings
+Visitor 89899 finished viewing painting 2
+Visitor 89919 finished viewing painting 4
+Visitor 89899 is viewing painting 5
+Visitor 89919 has seen all paintings and left the gallery
+Watchman: Visitor 89919 completed viewing all paintings
+Visitor 89897 finished viewing painting 3
+Visitor 89897 is viewing painting 1
+Visitor 89895 finished viewing painting 5
+Visitor 89895 has seen all paintings and left the gallery
+Watchman: Visitor 89895 completed viewing all paintings
+Visitor 89887 finished viewing painting 3
+Visitor 89874 finished viewing painting 1
+Visitor 89887 is viewing painting 5
+Visitor 89874 is viewing painting 4
+Visitor 89921 finished viewing painting 4
+Visitor 89921 is viewing painting 3
+Visitor 89868 finished viewing painting 2
+Visitor 89868 has seen all paintings and left the gallery
+Watchman: Visitor 89868 completed viewing all paintings
+Visitor 89912 finished viewing painting 1
+Visitor 89910 finished viewing painting 5
+Visitor 89912 is viewing painting 5
+Visitor 89910 is viewing painting 4
+Visitor 89908 finished viewing painting 4
+Visitor 89908 has seen all paintings and left the gallery
+Watchman: Visitor 89908 completed viewing all paintings
+Visitor 89899 finished viewing painting 5
+Visitor 89899 has seen all paintings and left the gallery
+Watchman: Visitor 89899 completed viewing all paintings
+Visitor 89897 finished viewing painting 1
+Visitor 89897 is viewing painting 5
+Visitor 89917 finished viewing painting 2
+Visitor 89917 is viewing painting 5
+Visitor 89864 finished viewing painting 1
+Visitor 89864 has seen all paintings and left the gallery
+Watchman: Visitor 89864 completed viewing all paintings
+Visitor 89883 finished viewing painting 4
+Visitor 89883 has seen all paintings and left the gallery
+Watchman: Visitor 89883 completed viewing all paintings
+Visitor 89874 finished viewing painting 4
+Visitor 89921 finished viewing painting 3
+Visitor 89921 has seen all paintings and left the gallery
+Visitor 89874 has seen all paintings and left the gallery
+Watchman: Visitor 89874 completed viewing all paintings
+Watchman: Visitor 89921 completed viewing all paintings
+Visitor 89912 finished viewing painting 5
+Visitor 89912 has seen all paintings and left the gallery
+Visitor 89910 finished viewing painting 4
+Watchman: Visitor 89912 completed viewing all paintings
+Visitor 89910 has seen all paintings and left the gallery
+Watchman: Visitor 89910 completed viewing all paintings
+Visitor 89917 finished viewing painting 5
+Visitor 89917 has seen all paintings and left the gallery
+Watchman: Visitor 89917 completed viewing all paintings
+Visitor 89887 finished viewing painting 5
+Visitor 89887 has seen all paintings and left the gallery
+Watchman: Visitor 89887 completed viewing all paintings
+Visitor 89897 finished viewing painting 5
+Visitor 89897 has seen all paintings and left the gallery
+Watchman: Visitor 89897 completed viewing all paintings
+^CWorking day finished...

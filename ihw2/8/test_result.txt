@@ -1,0 +1,608 @@
+Compiling watchman and visitor...
+Compilation successful.
+Starting watchman...
+Watchman started with PID: 90680
+Working day started...
+Launching 50 visitors...
+Visitor 90701 entered the gallery
+Visitor 90701 is viewing painting 4
+Visitor 90703 entered the gallery
+Visitor 90703 is viewing painting 3
+Visitor 90705 entered the gallery
+Visitor 90705 is viewing painting 4
+Visitor 90707 entered the gallery
+Visitor 90707 is viewing painting 3
+Visitor 90709 entered the gallery
+Visitor 90709 is viewing painting 5
+Visitor 90711 entered the gallery
+Visitor 90711 is viewing painting 5
+Visitor 90713 entered the gallery
+Visitor 90713 is viewing painting 4
+Visitor 90715 entered the gallery
+Visitor 90715 is viewing painting 4
+Visitor 90717 entered the gallery
+Visitor 90717 is viewing painting 1
+Visitor 90734 entered the gallery
+Visitor 90734 is viewing painting 4
+Visitor 90701 finished viewing painting 4
+Visitor 90701 is viewing painting 1
+Visitor 90746 entered the gallery
+Visitor 90746 is viewing painting 1
+Visitor 90703 finished viewing painting 3
+Visitor 90703 is viewing painting 5
+Visitor 90758 entered the gallery
+Visitor 90758 is viewing painting 4
+Visitor 90705 finished viewing painting 4
+Visitor 90705 is viewing painting 3
+Visitor 90760 entered the gallery
+Visitor 90760 is viewing painting 4
+Visitor 90707 finished viewing painting 3
+Visitor 90707 is viewing painting 5
+Visitor 90762 entered the gallery
+Visitor 90709 finished viewing painting 5
+Visitor 90709 is viewing painting 1
+Visitor 90764 entered the gallery
+Visitor 90764 is viewing painting 5
+Visitor 90711 finished viewing painting 5
+Visitor 90711 is viewing painting 1
+Visitor 90766 entered the gallery
+Visitor 90713 finished viewing painting 4
+Visitor 90713 is viewing painting 5
+Visitor 90762 is viewing painting 4
+Visitor 90768 entered the gallery
+Visitor 90768 is viewing painting 3
+Visitor 90715 finished viewing painting 4
+Visitor 90770 entered the gallery
+Visitor 90770 is viewing painting 3
+Visitor 90779 entered the gallery
+Visitor 90781 entered the gallery
+Visitor 90781 is viewing painting 3
+Visitor 90746 finished viewing painting 1
+Visitor 90746 is viewing painting 5
+Visitor 90766 is viewing painting 1
+Visitor 90809 entered the gallery
+Visitor 90758 finished viewing painting 4
+Visitor 90811 entered the gallery
+Visitor 90811 is viewing painting 3
+Visitor 90760 finished viewing painting 4
+Visitor 90813 entered the gallery
+Visitor 90813 is viewing painting 4
+Visitor 90707 finished viewing painting 5
+Visitor 90707 is viewing painting 2
+Visitor 90758 is viewing painting 5
+Visitor 90815 entered the gallery
+Visitor 90764 finished viewing painting 5
+Visitor 90817 entered the gallery
+Visitor 90762 finished viewing painting 4
+Visitor 90762 is viewing painting 5
+Visitor 90768 finished viewing painting 3
+Visitor 90815 is viewing painting 3
+Visitor 90770 finished viewing painting 3
+Visitor 90770 is viewing painting 2
+Visitor 90764 is viewing painting 3
+Visitor 90717 finished viewing painting 1
+Visitor 90715 is viewing painting 1
+Visitor 90717 is viewing painting 2
+Visitor 90734 finished viewing painting 4
+Visitor 90781 finished viewing painting 3
+Visitor 90781 is viewing painting 4
+Visitor 90817 is viewing painting 3
+Visitor 90701 finished viewing painting 1
+Visitor 90779 is viewing painting 1
+Visitor 90746 finished viewing painting 5
+Visitor 90766 finished viewing painting 1
+Visitor 90746 is viewing painting 2
+Visitor 90701 is viewing painting 5
+Visitor 90809 is viewing painting 1
+Visitor 90703 finished viewing painting 5
+Visitor 90703 is viewing painting 4
+Visitor 90811 finished viewing painting 3
+Visitor 90811 is viewing painting 4
+Visitor 90734 is viewing painting 3
+Visitor 90705 finished viewing painting 3
+Visitor 90766 is viewing painting 3
+Visitor 90758 finished viewing painting 5
+Visitor 90707 finished viewing painting 2
+Visitor 90709 finished viewing painting 1
+Visitor 90709 is viewing painting 2
+Visitor 90760 is viewing painting 1
+Visitor 90711 finished viewing painting 1
+Visitor 90768 is viewing painting 1
+Visitor 90713 finished viewing painting 5
+Visitor 90815 finished viewing painting 3
+Visitor 90815 is viewing painting 5
+Visitor 90711 is viewing painting 3
+Visitor 90817 finished viewing painting 3
+Visitor 90817 is viewing painting 2
+Visitor 90713 is viewing painting 3
+Visitor 90779 finished viewing painting 1
+Visitor 90779 is viewing painting 5
+Visitor 90705 is viewing painting 1
+Visitor 90734 finished viewing painting 3
+Visitor 90734 is viewing painting 5
+Visitor 90766 finished viewing painting 3
+Visitor 90766 is viewing painting 4
+Visitor 90813 finished viewing painting 4
+Visitor 90760 finished viewing painting 1
+Visitor 90760 is viewing painting 3
+Visitor 90758 is viewing painting 1
+Visitor 90762 finished viewing painting 5
+Visitor 90762 is viewing painting 3
+Visitor 90764 finished viewing painting 3
+Visitor 90770 finished viewing painting 2
+Visitor 90770 is viewing painting 5
+Visitor 90715 finished viewing painting 1
+Visitor 90707 is viewing painting 1
+Visitor 90717 finished viewing painting 2
+Visitor 90717 is viewing painting 4
+Visitor 90781 finished viewing painting 4
+Visitor 90781 is viewing painting 2
+Visitor 90713 finished viewing painting 3
+Visitor 90746 finished viewing painting 2
+Visitor 90746 is viewing painting 3
+Visitor 90701 finished viewing painting 5
+Visitor 90701 is viewing painting 2
+Visitor 90715 is viewing painting 5
+Visitor 90809 finished viewing painting 1
+Visitor 90809 is viewing painting 4
+Visitor 90813 is viewing painting 1
+Visitor 90703 finished viewing painting 4
+Visitor 90703 is viewing painting 2
+Visitor 90811 finished viewing painting 4
+All visitors launched.
+Visitor 90734 finished viewing painting 5
+Visitor 90811 is viewing painting 5
+Visitor 90766 finished viewing painting 4
+Visitor 90709 finished viewing painting 2
+Visitor 90709 is viewing painting 4
+Visitor 90734 is viewing painting 2
+Visitor 90758 finished viewing painting 1
+Visitor 90764 is viewing painting 1
+Visitor 90760 finished viewing painting 3
+Visitor 90768 finished viewing painting 1
+Visitor 90713 is viewing painting 1
+Visitor 90762 finished viewing painting 3
+Visitor 90711 finished viewing painting 3
+Visitor 90815 finished viewing painting 5
+Visitor 90766 is viewing painting 5
+Visitor 90717 finished viewing painting 4
+Visitor 90717 is viewing painting 3
+Visitor 90817 finished viewing painting 2
+Visitor 90758 is viewing painting 2
+Visitor 90705 finished viewing painting 1
+Visitor 90762 is viewing painting 1
+Visitor 90779 finished viewing painting 5
+Visitor 90760 is viewing painting 5
+Visitor 90811 finished viewing painting 5
+Visitor 90768 is viewing painting 5
+Visitor 90734 finished viewing painting 2
+Visitor 90764 finished viewing painting 1
+Visitor 90815 is viewing painting 1
+Visitor 90711 is viewing painting 2
+Visitor 90709 finished viewing painting 4
+Visitor 90709 is viewing painting 3
+Visitor 90713 finished viewing painting 1
+Visitor 90817 is viewing painting 1
+Visitor 90770 finished viewing painting 5
+Visitor 90705 is viewing painting 5
+Visitor 90707 finished viewing painting 1
+Visitor 90707 is viewing painting 4
+Visitor 90734 is viewing painting 1
+Visitor 90717 finished viewing painting 3
+Visitor 90781 finished viewing painting 2
+Visitor 90779 is viewing painting 2
+Visitor 90762 finished viewing painting 1
+Visitor 90770 is viewing painting 1
+Visitor 90701 finished viewing painting 2
+Visitor 90701 is viewing painting 3
+Visitor 90811 is viewing painting 2
+Visitor 90746 finished viewing painting 3
+Visitor 90809 finished viewing painting 4
+Visitor 90746 is viewing painting 4
+Visitor 90813 finished viewing painting 1
+Visitor 90715 finished viewing painting 5
+Visitor 90715 is viewing painting 3
+Visitor 90717 is viewing painting 5
+Visitor 90703 finished viewing painting 2
+Visitor 90703 is viewing painting 1
+Visitor 90764 is viewing painting 2
+Visitor 90709 finished viewing painting 3
+Visitor 90815 finished viewing painting 1
+Visitor 90711 finished viewing painting 2
+Visitor 90815 is viewing painting 4
+Visitor 90711 is viewing painting 4
+Visitor 90713 is viewing painting 2
+Visitor 90709 left the gallery
+Visitor 90819 entered the gallery
+Visitor 90819 is viewing painting 1
+Visitor 90766 finished viewing painting 5
+Visitor 90781 is viewing painting 5
+Visitor 90705 finished viewing painting 5
+Visitor 90809 is viewing painting 5
+Visitor 90758 finished viewing painting 2
+Visitor 90758 is viewing painting 3
+Visitor 90762 is viewing painting 2
+Visitor 90779 finished viewing painting 2
+Visitor 90779 is viewing painting 3
+Visitor 90813 is viewing painting 2
+Visitor 90760 finished viewing painting 5
+Visitor 90770 finished viewing painting 1
+Visitor 90770 is viewing painting 4
+Visitor 90715 finished viewing painting 3
+Visitor 90703 finished viewing painting 1
+Visitor 90764 finished viewing painting 2
+Visitor 90766 is viewing painting 2
+Visitor 90703 left the gallery
+Visitor 90821 entered the gallery
+Visitor 90821 is viewing painting 5
+Visitor 90768 finished viewing painting 5
+Visitor 90819 finished viewing painting 1
+Visitor 90711 finished viewing painting 4
+Visitor 90815 finished viewing painting 4
+Visitor 90768 is viewing painting 4
+Visitor 90764 is viewing painting 4
+Visitor 90711 left the gallery
+Visitor 90823 entered the gallery
+Visitor 90817 finished viewing painting 1
+Visitor 90817 is viewing painting 5
+Visitor 90734 finished viewing painting 1
+Visitor 90707 finished viewing painting 4
+Visitor 90823 is viewing painting 4
+Visitor 90734 left the gallery
+Visitor 90707 left the gallery
+Visitor 90832 entered the gallery
+Visitor 90834 entered the gallery
+Visitor 90779 finished viewing painting 3
+Visitor 90701 finished viewing painting 3
+Visitor 90701 left the gallery
+Visitor 90836 entered the gallery
+Visitor 90836 is viewing painting 1
+Visitor 90811 finished viewing painting 2
+Visitor 90717 finished viewing painting 5
+Visitor 90811 is viewing painting 1
+Visitor 90717 left the gallery
+Visitor 90838 entered the gallery
+Visitor 90834 is viewing painting 5
+Visitor 90838 is viewing painting 1
+Visitor 90705 is viewing painting 2
+Visitor 90746 finished viewing painting 4
+Visitor 90779 is viewing painting 4
+Visitor 90746 left the gallery
+Visitor 90840 entered the gallery
+Visitor 90713 finished viewing painting 2
+Visitor 90760 is viewing painting 2
+Visitor 90713 left the gallery
+Visitor 90842 entered the gallery
+Visitor 90764 finished viewing painting 4
+Visitor 90764 left the gallery
+Visitor 90844 entered the gallery
+Visitor 90781 finished viewing painting 5
+Visitor 90781 is viewing painting 1
+Visitor 90842 is viewing painting 5
+Visitor 90809 finished viewing painting 5
+Visitor 90844 is viewing painting 5
+Visitor 90762 finished viewing painting 2
+Visitor 90813 finished viewing painting 2
+Visitor 90758 finished viewing painting 3
+Visitor 90813 is viewing painting 3
+Visitor 90715 is viewing painting 2
+Visitor 90758 left the gallery
+Visitor 90762 left the gallery
+Visitor 90855 entered the gallery
+Visitor 90855 is viewing painting 1
+Visitor 90819 is viewing painting 2
+Visitor 90857 entered the gallery
+Visitor 90770 finished viewing painting 4
+Visitor 90770 left the gallery
+Visitor 90859 entered the gallery
+Visitor 90859 is viewing painting 3
+Visitor 90811 finished viewing painting 1
+Visitor 90811 left the gallery
+Visitor 90868 entered the gallery
+Visitor 90868 is viewing painting 3
+Visitor 90836 finished viewing painting 1
+Visitor 90821 finished viewing painting 5
+Visitor 90766 finished viewing painting 2
+Visitor 90815 is viewing painting 2
+Visitor 90766 left the gallery
+Visitor 90870 entered the gallery
+Visitor 90870 is viewing painting 5
+Visitor 90760 finished viewing painting 2
+Visitor 90760 left the gallery
+Visitor 90832 is viewing painting 2
+Visitor 90872 entered the gallery
+Visitor 90872 is viewing painting 3
+Visitor 90768 finished viewing painting 4
+Visitor 90817 finished viewing painting 5
+Visitor 90817 is viewing painting 4
+Visitor 90844 finished viewing painting 5
+Visitor 90844 is viewing painting 4
+Visitor 90823 finished viewing painting 4
+Visitor 90823 is viewing painting 5
+Visitor 90855 finished viewing painting 1
+Visitor 90813 finished viewing painting 3
+Visitor 90855 is viewing painting 3
+Visitor 90813 is viewing painting 5
+Visitor 90859 finished viewing painting 3
+Visitor 90859 is viewing painting 1
+Visitor 90779 finished viewing painting 4
+Visitor 90779 left the gallery
+Visitor 90834 finished viewing painting 5
+Visitor 90705 finished viewing painting 2
+Visitor 90705 left the gallery
+Visitor 90840 is viewing painting 2
+Visitor 90838 finished viewing painting 1
+Visitor 90838 is viewing painting 3
+Visitor 90874 entered the gallery
+Visitor 90876 entered the gallery
+Visitor 90876 is viewing painting 3
+Visitor 90870 finished viewing painting 5
+Visitor 90815 finished viewing painting 2
+Visitor 90815 left the gallery
+Visitor 90809 is viewing painting 2
+Visitor 90878 entered the gallery
+Visitor 90878 is viewing painting 4
+Visitor 90832 finished viewing painting 2
+Visitor 90832 is viewing painting 5
+Visitor 90857 is viewing painting 2
+Visitor 90842 finished viewing painting 5
+Visitor 90781 finished viewing painting 1
+Visitor 90842 is viewing painting 1
+Visitor 90781 left the gallery
+Visitor 90880 entered the gallery
+Visitor 90880 is viewing painting 1
+Visitor 90823 finished viewing painting 5
+Visitor 90823 is viewing painting 1
+Visitor 90715 finished viewing painting 2
+Visitor 90819 finished viewing painting 2
+Visitor 90819 is viewing painting 5
+Visitor 90836 is viewing painting 2
+Visitor 90821 is viewing painting 2
+Visitor 90715 left the gallery
+Visitor 90885 entered the gallery
+Visitor 90859 finished viewing painting 1
+Visitor 90859 is viewing painting 4
+Visitor 90876 finished viewing painting 3
+Visitor 90876 is viewing painting 1
+Visitor 90838 finished viewing painting 3
+Visitor 90868 finished viewing painting 3
+Visitor 90840 finished viewing painting 2
+Visitor 90840 is viewing painting 4
+Visitor 90768 is viewing painting 2
+Visitor 90809 finished viewing painting 2
+Visitor 90809 is viewing painting 3
+Visitor 90834 is viewing painting 2
+Visitor 90832 finished viewing painting 5
+Visitor 90872 finished viewing painting 3
+Visitor 90832 is viewing painting 1
+Visitor 90817 finished viewing painting 4
+Visitor 90817 left the gallery
+Visitor 90887 entered the gallery
+Visitor 90887 is viewing painting 5
+Visitor 90844 finished viewing painting 4
+Visitor 90819 finished viewing painting 5
+Visitor 90836 finished viewing painting 2
+Visitor 90836 is viewing painting 3
+Visitor 90819 is viewing painting 3
+Visitor 90855 finished viewing painting 3
+Visitor 90855 is viewing painting 5
+Visitor 90874 is viewing painting 2
+Visitor 90813 finished viewing painting 5
+Visitor 90859 finished viewing painting 4
+Visitor 90859 is viewing painting 5
+Visitor 90813 left the gallery
+Visitor 90896 entered the gallery
+Visitor 90896 is viewing painting 3
+Visitor 90840 finished viewing painting 4
+Visitor 90840 is viewing painting 5
+Visitor 90876 finished viewing painting 1
+Visitor 90876 is viewing painting 4
+Visitor 90844 is viewing painting 1
+Visitor 90878 finished viewing painting 4
+Visitor 90809 finished viewing painting 3
+Visitor 90834 finished viewing painting 2
+Visitor 90834 is viewing painting 3
+Visitor 90809 left the gallery
+Visitor 90870 is viewing painting 2
+Visitor 90898 entered the gallery
+Visitor 90857 finished viewing painting 2
+Visitor 90857 is viewing painting 5
+Visitor 90885 is viewing painting 2
+Visitor 90832 finished viewing painting 1
+Visitor 90832 is viewing painting 3
+Visitor 90898 is viewing painting 1
+Visitor 90880 finished viewing painting 1
+Visitor 90842 finished viewing painting 1
+Visitor 90823 finished viewing painting 1
+Visitor 90821 finished viewing painting 2
+Visitor 90821 is viewing painting 1
+Visitor 90838 is viewing painting 2
+Visitor 90836 finished viewing painting 3
+Visitor 90855 finished viewing painting 5
+Visitor 90855 is viewing painting 4
+Visitor 90880 is viewing painting 5
+Visitor 90819 finished viewing painting 3
+Visitor 90819 is viewing painting 4
+Visitor 90859 finished viewing painting 5
+Visitor 90836 is viewing painting 5
+Visitor 90768 finished viewing painting 2
+Visitor 90868 is viewing painting 2
+Visitor 90768 left the gallery
+Visitor 90900 entered the gallery
+Visitor 90900 is viewing painting 3
+Visitor 90840 finished viewing painting 5
+Visitor 90840 is viewing painting 1
+Visitor 90898 finished viewing painting 1
+Visitor 90898 is viewing painting 5
+Visitor 90887 finished viewing painting 5
+Visitor 90887 is viewing painting 4
+Visitor 90836 finished viewing painting 5
+Visitor 90819 finished viewing painting 4
+Visitor 90874 finished viewing painting 2
+Visitor 90838 finished viewing painting 2
+Visitor 90874 is viewing painting 3
+Visitor 90838 is viewing painting 4
+Visitor 90836 is viewing painting 4
+Visitor 90819 left the gallery
+Visitor 90896 finished viewing painting 3
+Visitor 90878 is viewing painting 2
+Visitor 90855 finished viewing painting 4
+Visitor 90880 finished viewing painting 5
+Visitor 90880 is viewing painting 4
+Visitor 90872 is viewing painting 2
+Visitor 90876 finished viewing painting 4
+Visitor 90844 finished viewing painting 1
+Visitor 90844 is viewing painting 3
+Visitor 90840 finished viewing painting 1
+Visitor 90868 finished viewing painting 2
+Visitor 90868 is viewing painting 4
+Visitor 90842 is viewing painting 2
+Visitor 90834 finished viewing painting 3
+Visitor 90840 is viewing painting 3
+Visitor 90870 finished viewing painting 2
+Visitor 90823 is viewing painting 2
+Visitor 90885 finished viewing painting 2
+Visitor 90857 finished viewing painting 5
+Visitor 90832 finished viewing painting 3
+Visitor 90885 is viewing painting 5
+Visitor 90859 is viewing painting 2
+Visitor 90898 finished viewing painting 5
+Visitor 90887 finished viewing painting 4
+Visitor 90887 is viewing painting 3
+Visitor 90834 is viewing painting 4
+Visitor 90821 finished viewing painting 1
+Visitor 90874 finished viewing painting 3
+Visitor 90874 is viewing painting 1
+Visitor 90821 is viewing painting 3
+Visitor 90844 finished viewing painting 3
+Visitor 90868 finished viewing painting 4
+Visitor 90900 finished viewing painting 3
+Visitor 90868 is viewing painting 5
+Visitor 90870 is viewing painting 4
+Visitor 90842 finished viewing painting 2
+Visitor 90842 is viewing painting 3
+Visitor 90855 is viewing painting 2
+Visitor 90840 finished viewing painting 3
+Visitor 90840 left the gallery
+Visitor 90885 finished viewing painting 5
+Visitor 90885 is viewing painting 3
+Visitor 90859 finished viewing painting 2
+Visitor 90896 is viewing painting 2
+Visitor 90859 left the gallery
+Visitor 90834 finished viewing painting 4
+Visitor 90887 finished viewing painting 3
+Visitor 90834 is viewing painting 1
+Visitor 90887 is viewing painting 1
+Visitor 90857 is viewing painting 4
+Visitor 90878 finished viewing painting 2
+Visitor 90878 is viewing painting 3
+Visitor 90876 is viewing painting 2
+Visitor 90872 finished viewing painting 2
+Visitor 90872 is viewing painting 5
+Visitor 90898 is viewing painting 2
+Visitor 90836 finished viewing painting 4
+Visitor 90832 is viewing painting 4
+Visitor 90836 left the gallery
+Visitor 90880 finished viewing painting 4
+Visitor 90838 finished viewing painting 4
+Visitor 90838 is viewing painting 5
+Visitor 90900 is viewing painting 4
+Visitor 90821 finished viewing painting 3
+Visitor 90821 is viewing painting 4
+Visitor 90868 finished viewing painting 5
+Visitor 90868 is viewing painting 1
+Visitor 90823 finished viewing painting 2
+Visitor 90823 is viewing painting 3
+Visitor 90844 is viewing painting 2
+Visitor 90896 finished viewing painting 2
+Visitor 90896 is viewing painting 1
+Visitor 90880 is viewing painting 2
+Visitor 90887 finished viewing painting 1
+Visitor 90834 finished viewing painting 1
+Visitor 90857 finished viewing painting 4
+Visitor 90857 is viewing painting 3
+Visitor 90834 left the gallery
+Visitor 90872 finished viewing painting 5
+Visitor 90900 finished viewing painting 4
+Visitor 90832 finished viewing painting 4
+Visitor 90876 finished viewing painting 2
+Visitor 90872 is viewing painting 1
+Visitor 90900 is viewing painting 5
+Visitor 90876 is viewing painting 5
+Visitor 90832 left the gallery
+Visitor 90887 is viewing painting 2
+Visitor 90838 finished viewing painting 5
+Visitor 90838 left the gallery
+Visitor 90874 finished viewing painting 1
+Visitor 90874 is viewing painting 4
+Visitor 90870 finished viewing painting 4
+Visitor 90855 finished viewing painting 2
+Visitor 90842 finished viewing painting 3
+Visitor 90842 is viewing painting 4
+Visitor 90855 left the gallery
+Visitor 90870 is viewing painting 3
+Visitor 90823 finished viewing painting 3
+Visitor 90823 left the gallery
+Visitor 90844 finished viewing painting 2
+Visitor 90844 left the gallery
+Visitor 90885 finished viewing painting 3
+Visitor 90885 is viewing painting 1
+Visitor 90880 finished viewing painting 2
+Visitor 90880 is viewing painting 3
+Visitor 90898 finished viewing painting 2
+Visitor 90898 is viewing painting 3
+Visitor 90878 finished viewing painting 3
+Visitor 90878 is viewing painting 1
+Visitor 90900 finished viewing painting 5
+Visitor 90900 is viewing painting 2
+Visitor 90821 finished viewing painting 4
+Visitor 90874 finished viewing painting 4
+Visitor 90874 is viewing painting 5
+Visitor 90872 finished viewing painting 1
+Visitor 90872 is viewing painting 4
+Visitor 90821 left the gallery
+Visitor 90868 finished viewing painting 1
+Visitor 90868 left the gallery
+Visitor 90896 finished viewing painting 1
+Visitor 90896 is viewing painting 5
+Visitor 90880 finished viewing painting 3
+Visitor 90880 left the gallery
+Visitor 90857 finished viewing painting 3
+Visitor 90857 is viewing painting 1
+Visitor 90900 finished viewing painting 2
+Visitor 90898 finished viewing painting 3
+Visitor 90900 is viewing painting 1
+Visitor 90898 is viewing painting 4
+Visitor 90876 finished viewing painting 5
+Visitor 90887 finished viewing painting 2
+Visitor 90876 left the gallery
+Visitor 90887 left the gallery
+Visitor 90842 finished viewing painting 4
+Visitor 90842 left the gallery
+Visitor 90870 finished viewing painting 3
+Visitor 90870 is viewing painting 1
+Visitor 90885 finished viewing painting 1
+Visitor 90885 is viewing painting 4
+Visitor 90896 finished viewing painting 5
+Visitor 90896 is viewing painting 4
+Visitor 90878 finished viewing painting 1
+Visitor 90878 is viewing painting 5
+Visitor 90898 finished viewing painting 4
+Visitor 90874 finished viewing painting 5
+Visitor 90872 finished viewing painting 4
+Visitor 90898 left the gallery
+Visitor 90872 left the gallery
+Visitor 90874 left the gallery
+Visitor 90870 finished viewing painting 1
+Visitor 90870 left the gallery
+Visitor 90896 finished viewing painting 4
+Visitor 90896 left the gallery
+Visitor 90857 finished viewing painting 1
+Visitor 90857 left the gallery
+Visitor 90900 finished viewing painting 1
+Visitor 90900 left the gallery
+Visitor 90885 finished viewing painting 4
+Visitor 90885 left the gallery
+Visitor 90878 finished viewing painting 5
+Visitor 90878 left the gallery
+^CWorking day finished...
