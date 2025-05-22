@@ -1,0 +1,44 @@
+accept() failed: Interrupted system call
+[SERVER] 1747568014 Server started. Student port: 8080, Watcher port: 8081. Wait...
+[SERVER] 1747568014 Waiting for watcher...
+[SERVER] 1747568015 Watcher connected from 127.0.0.1
+[SERVER] 1747568016 Handling client 127.0.0.1
+[SERVER] 1747568016 recv: {"ticket": 22}
+[SERVER] 1747568016 Handling client 127.0.0.1
+[SERVER] 1747568016 recv: {"ticket": 43}
+[SERVER] 1747568016 Handling client 127.0.0.1
+[SERVER] 1747568016 recv: {"ticket": 29}
+[SERVER] 1747568016 Handling client 127.0.0.1
+[SERVER] 1747568016 recv: {"ticket": 36}
+[SERVER] 1747568016 Handling client 127.0.0.1
+[SERVER] 1747568016 recv: {"ticket": 57}
+[SERVER] 1747568016 Handling client 127.0.0.1
+[SERVER] 1747568016 recv: {"ticket": 50}
+[SERVER] 1747568016 Handling client 127.0.0.1
+[SERVER] 1747568016 recv: {"ticket": 64}
+[SERVER] 1747568016 Handling client 127.0.0.1
+[SERVER] 1747568016 recv: {"ticket": 71}
+[SERVER] 1747568016 Handling client 127.0.0.1
+[SERVER] 1747568016 recv: {"ticket": 78}
+[SERVER] 1747568016 Handling client 127.0.0.1
+[SERVER] 1747568016 recv: {"ticket": 85}
+[SERVER] 1747568017 Handling client 127.0.0.1
+[SERVER] 1747568017 recv: {"ticket": 36, "answer": "answer36"}
+[SERVER] 1747568020 Handling client 127.0.0.1
+[SERVER] 1747568020 recv: {"ticket": 29, "answer": "answer29"}
+[SERVER] 1747568022 Handling client 127.0.0.1
+[SERVER] 1747568022 recv: {"ticket": 22, "answer": "answer22"}
+[SERVER] 1747568025 Handling client 127.0.0.1
+[SERVER] 1747568025 recv: {"ticket": 85, "answer": "answer85"}
+[SERVER] 1747568028 Handling client 127.0.0.1
+[SERVER] 1747568028 recv: {"ticket": 64, "answer": "answer64"}
+[SERVER] 1747568030 Handling client 127.0.0.1
+[SERVER] 1747568030 recv: {"ticket": 57, "answer": "answer57"}
+[SERVER] 1747568035 Handling client 127.0.0.1
+[SERVER] 1747568035 recv: {"ticket": 78, "answer": "answer78"}
+[SERVER] 1747568040 Handling client 127.0.0.1
+[SERVER] 1747568040 recv: {"ticket": 50, "answer": "answer50"}
+[SERVER] 1747568044 Handling client 127.0.0.1
+[SERVER] 1747568044 recv: {"ticket": 71, "answer": "answer71"}
+[SERVER] 1747568047 Handling client 127.0.0.1
+[SERVER] 1747568047 recv: {"ticket": 43, "answer": "answer43"}

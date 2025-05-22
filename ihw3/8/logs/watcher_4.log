@@ -1,0 +1,32 @@
+[SERVER] 1747572708 Watcher connected from 127.0.0.1
+[SERVER] 1747572708 Watcher connected from 127.0.0.1
+[SERVER] 1747572711 Handling client 127.0.0.1
+[SERVER] 1747572711 recv: {"ticket": 86, "answer": "answer86"}
+[SERVER] 1747572715 send: 4
+[SERVER] 1747572715 Handling client 127.0.0.1
+[SERVER] 1747572715 recv: {"ticket": 79, "answer": "answer79"}
+[SERVER] 1747572719 send: 3
+[SERVER] 1747572719 Handling client 127.0.0.1
+[SERVER] 1747572719 recv: {"ticket": 100, "answer": "answer100"}
+[SERVER] 1747572720 send: 3
+[SERVER] 1747572720 Handling client 127.0.0.1
+[SERVER] 1747572720 recv: {"ticket": 72, "answer": "answer72"}
+[SERVER] 1747572723 send: 5
+[SERVER] 1747572723 Handling client 127.0.0.1
+[SERVER] 1747572723 recv: {"ticket": 93, "answer": "answer93"}
+[SERVER] 1747572726 send: 3
+[SERVER] 1747572726 Handling client 127.0.0.1
+[SERVER] 1747572726 recv: {"ticket": 65, "answer": "answer65"}
+[SERVER] 1747572730 send: 3
+[SERVER] 1747572730 Handling client 127.0.0.1
+[SERVER] 1747572730 recv: {"ticket": 58, "answer": "answer58"}
+[SERVER] 1747572732 send: 3
+[SERVER] 1747572732 Handling client 127.0.0.1
+[SERVER] 1747572732 recv: {"ticket": 37, "answer": "answer37"}
+[SERVER] 1747572734 send: 5
+[SERVER] 1747572734 Handling client 127.0.0.1
+[SERVER] 1747572734 recv: {"ticket": 51, "answer": "answer51"}
+[SERVER] 1747572735 send: 2
+[SERVER] 1747572735 Handling client 127.0.0.1
+[SERVER] 1747572735 recv: {"ticket": 44, "answer": "answer44"}
+[SERVER] 1747572737 send: 4

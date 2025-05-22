@@ -1,0 +1,42 @@
+accept() failed: Interrupted system call
+[SERVER] 1747563731 Server started. IP: 0.0.0.0, Port: 8080. Wait...
+[SERVER] 1747563731 Handling client 127.0.0.1
+[SERVER] 1747563731 recv: {"ticket": 25}
+[SERVER] 1747563731 Handling client 127.0.0.1
+[SERVER] 1747563731 recv: {"ticket": 4}
+[SERVER] 1747563731 Handling client 127.0.0.1
+[SERVER] 1747563731 recv: {"ticket": 11}
+[SERVER] 1747563731 Handling client 127.0.0.1
+[SERVER] 1747563731 recv: {"ticket": 18}
+[SERVER] 1747563731 Handling client 127.0.0.1
+[SERVER] 1747563731 recv: {"ticket": 97}
+[SERVER] 1747563731 Handling client 127.0.0.1
+[SERVER] 1747563731 recv: {"ticket": 39}
+[SERVER] 1747563731 Handling client 127.0.0.1
+[SERVER] 1747563731 recv: {"ticket": 32}
+[SERVER] 1747563731 Handling client 127.0.0.1
+[SERVER] 1747563731 recv: {"ticket": 60}
+[SERVER] 1747563731 Handling client 127.0.0.1
+[SERVER] 1747563731 recv: {"ticket": 46}
+[SERVER] 1747563731 Handling client 127.0.0.1
+[SERVER] 1747563731 recv: {"ticket": 53}
+[SERVER] 1747563732 Handling client 127.0.0.1
+[SERVER] 1747563732 recv: {"ticket": 18, "answer": "answer18"}
+[SERVER] 1747563733 Handling client 127.0.0.1
+[SERVER] 1747563733 recv: {"ticket": 39, "answer": "answer39"}
+[SERVER] 1747563736 Handling client 127.0.0.1
+[SERVER] 1747563736 recv: {"ticket": 11, "answer": "answer11"}
+[SERVER] 1747563738 Handling client 127.0.0.1
+[SERVER] 1747563738 recv: {"ticket": 32, "answer": "answer32"}
+[SERVER] 1747563743 Handling client 127.0.0.1
+[SERVER] 1747563743 recv: {"ticket": 4, "answer": "answer4"}
+[SERVER] 1747563747 Handling client 127.0.0.1
+[SERVER] 1747563747 recv: {"ticket": 25, "answer": "answer25"}
+[SERVER] 1747563752 Handling client 127.0.0.1
+[SERVER] 1747563752 recv: {"ticket": 97, "answer": "answer97"}
+[SERVER] 1747563753 Handling client 127.0.0.1
+[SERVER] 1747563753 recv: {"ticket": 60, "answer": "answer60"}
+[SERVER] 1747563754 Handling client 127.0.0.1
+[SERVER] 1747563754 recv: {"ticket": 53, "answer": "answer53"}
+[SERVER] 1747563758 Handling client 127.0.0.1
+[SERVER] 1747563758 recv: {"ticket": 46, "answer": "answer46"}
